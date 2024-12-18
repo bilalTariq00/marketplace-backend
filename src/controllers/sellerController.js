@@ -1,0 +1,1 @@
+const seller=async()=>{}
